@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@react-pdf/renderer": "^4.5.1",
+    "@vercel/speed-insights": "^2.0.0",
     "buffer": "^6.0.3",
     "daisyui": "^5.5.23",
     "framer-motion": "^12.40.0",
